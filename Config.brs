@@ -49,10 +49,10 @@ Function loadConfig() as Object
     Stream: "https://e2.thetvapp.to/hls/StarzEast.m3u8?token=IyQ56hLL2lcCj89WyH86UA&expires=1704757936"
 }
 {
-    Title: "Roku Example 7"
+    Title: "usa mp4"
     streamFormat: "mp4"
     Logo: "https://placeholdit.imgix.net/~text?txtsize=33&txt=channel+logo&w=267&h=150"
-    Stream: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    Stream: "https://thetvapp.to/tv/usa-network-live-stream/"
 }
 {
     Title: "Roku Example 8"
