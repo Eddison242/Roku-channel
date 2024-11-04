@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <component name="EPGView" extends="Group">
+    <script uri="pkg:/components/EPGView.brs" />
+
     <interface>
         <field id="content" type="node" />
     </interface>
@@ -35,4 +37,9 @@
             height="50" 
             onKeySelect="closeEPGView" />
     </children>
+    
+    <bindings>
+        <!-- Bind onKeyEvent to all key events, including the back button -->
+        <key key="any" action="onKeyEvent" />
+    </bindings>
 </component>
