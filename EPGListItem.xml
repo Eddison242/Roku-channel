@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<component name="EPGListItem" extends="ContentNode">
+    <interface>
+        <field id="title" type="string" />
+        <field id="description" type="string" />
+        <field id="startTime" type="string" />
+        <field id="endTime" type="string" />
+    </interface>
+    
+    <children>
+        <!-- Program Title -->
+        <Label 
+            id="programTitle" 
+            text="{title}" 
+            font="font:MediumBoldSystemFont" 
+            translation="[20, 10]" 
+            width="1040"
+            color="0xFFFFFF" />
+
+        <!-- Program Time (Start - End) -->
+        <Label 
+            id="programTime" 
+            text="{startTime} - {endTime}" 
+            font="font:MediumSystemFont" 
+            translation="[20, 50]" 
+            width="1040"
+            color="0xCCCCCC" />
+
+        <!-- Program Description -->
+        <Label 
+            id="programDescription" 
+            text="{description}" 
+            font="font:SmallSystemFont" 
+            translation="[20, 90]" 
+            width="1040"
+            color="0xAAAAAA" />
+    </children>
+</component>
