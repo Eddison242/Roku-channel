@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<component name="EPGView" extends="Group">
+    <interface>
+        <field id="content" type="node" />
+    </interface>
+    
+    <children>
+        <!-- Title for the EPG Guide -->
+        <Label 
+            id="titleLabel" 
+            text="EPG Guide" 
+            font="font:MediumBoldSystemFont" 
+            horizAlign="center" 
+            translation="[640, 50]" 
+            color="0xFFFFFF" />
+
+        <!-- Program List -->
+        <MarkupList 
+            id="epgList" 
+            itemComponentName="EPGListItem" 
+            translation="[100, 100]" 
+            width="1080" 
+            height="720"
+            itemSpacing="10"
+            itemSize="[1080, 100]"
+            focusable="true"
+            vertFocusAnimationStyle="overlay" />
+
+        <!-- Back Button -->
+        <Button 
+            id="backButton" 
+            text="Back" 
+            translation="[50, 900]" 
+            width="150" 
+            height="50" 
+            onKeySelect="closeEPGView" />
+    </children>
+</component>
