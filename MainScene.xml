@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+
+<component name="MainScene" extends="Scene" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://rokudev.roku.com/rokudev/schema/RokuSceneGraph.xsd">
+    <script type="text/brightscript" uri="pkg:/components/MainScene/MainScene.brs"/>
+
+    <children>
+        <!-- Channel List -->
+        <LabelList
+            id="list"
+            translation="[150, 150]"
+        />
+
+        <!-- Video Player -->
+        <Video
+            id="Video"
+            translation="[800, 100]"
+            width="960"
+            height="540"
+        />
+
+        <!-- Get Channel List Node -->
+        <get_channel_list
+            id="get_channel_list"
+            control="STOP"
+        />
+
+        <!-- Save Feed URL Node -->
+        <save_feed_url
+            id="save_feed_url"
+            control="STOP"
+        />
+
+        <!-- EPG Button -->
+        <Button
+            id="epgButton"
+            translation="[150, 50]"
+            width="200"
+            height="50"
+            text="EPG Guide"
+        />
+
+        <!-- EPG View (initially hidden, managed in MainScene.brs) -->
+        <EPGView
+            id="epgView"
+            visible="false"
+            translation="[150, 220]"
+        />
+    </children>
+</component>
