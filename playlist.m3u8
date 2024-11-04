@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tinyurl.com/tta-epg"
+#EXTM3U url-tvg="https://bit.ly/tta-epg"
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
 https://v4.thetvapp.to/hls/AEEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
