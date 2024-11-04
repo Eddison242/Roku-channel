@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<component name="get_channel_list" extends="Task">
+    <interface>
+        <!-- Fields for URL, content, and control -->
+        <field id="content" type="node" />          <!-- To store parsed channel list content -->
+        <field id="url" type="string" />            <!-- The URL to fetch channel list data from -->
+        <field id="status" type="string" />         <!-- Status of task (e.g., "loading", "success", "error") -->
+        <field id="errorMessage" type="string" />   <!-- Error message if fetching fails -->
+        <field id="fetchChannels" type="boolean" /> <!-- Trigger to start fetching channels -->
+
+        <!-- Observers for UI triggers (if you want to handle errors or loading states in the UI) -->
+        <observer field="fetchChannels" handler="onFetchChannels" />
+    </interface>
+
+    <script type="text/brightscript" uri="pkg:/components/get_channel_list/get_channel_list.brs" />
+</component>
