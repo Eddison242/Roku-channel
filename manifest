@@ -1,10 +1,22 @@
 title=242MediaBahamas TV
+subtitle=IPTV Streaming with EPG Guide
 major_version=1
 minor_version=0
-build_version=1
-mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
-requires_mkv=1
-splash_screen_fhd=pkg:/images/splash_fhd.png
-splash_color=#121212
-splash_min_time=2000
+build_version=001
+mm_icon_focus_hd=pkg:/images/icon_hd.png
+mm_icon_focus_sd=pkg:/images/icon_sd.png
+splash_screen_fhd=pkg:/images/splash_hd.jpg
+splash_screen_sd=pkg:/images/splash_sd.jpg
 ui_resolutions=fhd
+bs_libs_required=roku_ads_lib, roku_ui_lib
+enable_provider_exit=true
+confirm_partner_button_url=true
+support_url=https://www.yourwebsite.com/support
+bs_libs_required=roku_ads_lib, roku_ui_lib
+
+' Optional app settings
+feed_url=https://bit.ly/tta-m3u
+epg_url=https://bit.ly/tta-epg
+default_region=all
+default_service=PlutoTV
+default_language=en
