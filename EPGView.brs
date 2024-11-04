@@ -1,60 +1,77 @@
 ' ********** EPGView.brs **********
-
 sub init()
-    m.top.functionName = "loadEPG"
-    m.backButtonPressed = false
+    m.port = CreateObject("roMessagePort")
+    m.epgList = m.top.FindNode("epgList")
+    m.backButton = m.top.FindNode("backButton")
+
+    ' Observe back button for events
+    m.backButton.ObserveField("buttonSelected", "onBackButtonPress")
+
+    fetchEPGData() ' Fetch EPG data
 end sub
 
-' **********************************************
-
-sub loadEPG()
-    ' Retrieve the EPG data from the global node
-    epgData = m.global.epg
-    con = CreateObject("roSGNode", "ContentNode")
-
-    ' Check if EPG data is available
-    if epgData = invalid or epgData.Count() = 0
-        print "No EPG data available"
-        return
-    end if
-
-    ' Loop through each channel in the EPG data
-    for each channel in epgData
-        ' Create a ContentNode for each channel's EPG section
-        channelNode = con.CreateChild("ContentNode")
-        channelNode.contentType = "section"
-        channelNode.title = channel.channelName
-
-        ' Loop through each program for the channel
-        for each program in channel.programs
-            ' Create a ContentNode for each program
-            programNode = channelNode.CreateChild("ContentNode")
-            programNode.title = program.title
-            programNode.description = program.description
-            programNode.startTime = program.startTime
-            programNode.endTime = program.endTime
-        end for
-    end for
-
-    ' Set the content node with the EPG data
-    m.top.content = con
+sub fetchEPGData()
+    urlTransfer = CreateObject("roUrlTransfer")
+    urlTransfer.setURL(m.global.epgUrl) ' EPG URL
+    urlTransfer.setMessagePort(m.port)
+    urlTransfer.asyncGetToString()
 end sub
 
-' Function to handle the Back button press
-sub onKeyEvent(key as String, press as Boolean) as Boolean
-    if press
-        if key = "back"
-            closeEPGView()
-            return true
+sub onMessageReceived()
+    msg = wait(0, m.port)
+    if type(msg) = "roUrlEvent"
+        if msg.getResponseCode() = 200
+            epgXml = msg.getString()
+            processEPGData(epgXml)
+        else
+            print "Error fetching EPG data: " + msg.getResponseCode()
+            showError("Failed to load EPG data.")
         end if
     end if
-    return false
 end sub
 
-sub closeEPGView()
-    ' Check if the back button was pressed already to avoid repeated calls
-    if not m.backButtonPressed
-        m.backButtonPressed = true
-        m.top.close = true
+sub processEPGData(epgXml as String)
+    ' Initialize EPG list
+    m.epgList.content = CreateObject("roSGNode", "ContentNode")
+    
+    xmlParser = CreateObject("roXmlElement")
+    xmlParser.parse(epgXml)
+
+    ' Loop through channels and programs
+    for each channel in xmlParser.getChildren()
+        if channel.nodeType = "element" and channel.getName() = "channel"
+            channelName = channel.getChild("display-name").getValue()
+            programsNode = channel.getChild("programme")
+
+            channelNode = m.epgList.content.CreateChild("ContentNode")
+            channelNode.title = channelName
+            channelNode.id = channelName
+
+            ' Add programs under the channel
+            for each program in programsNode
+                programNode = channelNode.CreateChild("ContentNode")
+                programNode.title = program.getChild("title").getValue()
+                programNode.description = program.getChild("desc").getValue()
+                programNode.startTime = program.getAttribute("start")
+                programNode.endTime = program.getAttribute("end")
+            end for
+
+            m.epgList.content.AppendChild(channelNode)
+        end if
+    end for
+
+    m.epgList.SetFocus(true) ' Set focus on the EPG list
+end sub
+
+sub onBackButtonPress()
+    ' Handle back button press
+    if m.backButton.buttonSelected = 0 ' Assuming the first button is the back button
+        m.top.visible = false ' Hide EPG view
+        m.top.FindNode("MainScene").visible = true ' Show main scene
     end if
+end sub
+
+sub showError(message as String)
+    ' Display an error message (you might want to create a dialog node for this)
+    print message
 end sub
