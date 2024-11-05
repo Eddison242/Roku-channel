@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Stirr/us.xml.gz"
-#EXTINF:-1 channel-id="Stirr-5734" tvg-name="4K Travel TV" tvg-id="5734" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png" group-title="" tvg-chno="760",4K Travel TV
+#EXTINF:-1 channel-id="Stirr-5734" tvg-name="4K Travel TV" tvg-id="5734" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712612339bhKq2lZNGi-512x512-square.png" group-title="Travel" tvg-chno="760",4K Travel TV
 https://jmp2.uk/str-5734.m3u8
 #EXTINF:-1 channel-id="Stirr-5740" tvg-name="Ace TV" tvg-id="5740" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712613664IxmNkW3C0m-512x512-square.png" group-title="" tvg-chno="435",Ace TV
 https://jmp2.uk/str-5740.m3u8
 #EXTINF:-1 channel-id="Stirr-5293" tvg-name="Adventure Sports TV" tvg-id="5293" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707439856kv40RRNDV4-512x512-square.png" group-title="" tvg-chno="460",Adventure Sports TV
 https://jmp2.uk/str-5293.m3u8
-#EXTINF:-1 channel-id="Stirr-5442" tvg-name="Always Funny" tvg-id="5442" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png" group-title="" tvg-chno="100",Always Funny
+#EXTINF:-1 channel-id="Stirr-5442" tvg-name="Always Funny" tvg-id="5442" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/03/21/1711050143xj230eD6gK-512x512-square.png" group-title="Comedy" tvg-chno="100",Always Funny
 https://jmp2.uk/str-5442.m3u8
-#EXTINF:-1 channel-id="Stirr-6207" tvg-name="Always Funny: Pranks & Fails" tvg-id="6207" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png" group-title="" tvg-chno="595",Always Funny: Pranks & Fails
+#EXTINF:-1 channel-id="Stirr-6207" tvg-name="Always Funny: Pranks & Fails" tvg-id="6207" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/05/10/1715321470Kdkn5LQ6JH-512x512-square.png" group-title="Comedy" tvg-chno="595",Always Funny: Pranks & Fails
 https://jmp2.uk/str-6207.m3u8
 #EXTINF:-1 channel-id="Stirr-5721" tvg-name="Automotions" tvg-id="5721" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712609473hjETuhYlFl-512x512-square.png" group-title="" tvg-chno="305",Automotions
 https://jmp2.uk/str-5721.m3u8
