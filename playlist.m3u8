@@ -1129,65 +1129,39 @@ https://jmp2.uk/plu-65a9b20f0c7ff50008d3a3b6-alt.m3u8
 https://jmp2.uk/plu-5b4e96a0423e067bd6df6901-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-656538f8954b020008d389db" tvg-name="UnXplained Zone" tvg-id="656538f8954b020008d389db" tvg-logo="https://images.pluto.tv/channels/656538f8954b020008d389db/colorLogoPNG.png" group-title="Reality" tvg-chno="1530",UnXplained Zone
 https://jmp2.uk/plu-656538f8954b020008d389db-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5f32f26bcd8aea00071240e5" tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4640",Vevo '70s
+#EXTINF:-1 channel-id="PlutoTV-5f32f26bcd8aea00071240e5" tvg-name="Vevo '70s" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music" tvg-chno="4640",Vevo '70s
 https://jmp2.uk/plu-5f32f26bcd8aea00071240e5-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4650",Vevo '80s
+#EXTINF:-1 channel-id="PlutoTV-5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music" tvg-chno="4650",Vevo '80s
 https://jmp2.uk/plu-5fd7b8bf927e090007685853-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4660",Vevo '90s
+#EXTINF:-1 channel-id="PlutoTV-5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music" tvg-chno="4660",Vevo '90s
 https://jmp2.uk/plu-5fd7bb1f86d94a000796e2c2-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5fd7bca3e0a4ee0007a38e8c" tvg-name="Vevo 2K" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4670",Vevo 2K
+#EXTINF:-1 channel-id="PlutoTV-5fd7bca3e0a4ee0007a38e8c" tvg-name="Vevo 2K" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music" tvg-chno="4670",Vevo 2K
 https://jmp2.uk/plu-5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5da0d75e84830900098a1ea0" tvg-name="Vevo Country" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4700",Vevo Country
-https://jmp2.uk/plu-5da0d75e84830900098a1ea0-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5dcf059646c0cf000a293edd" tvg-name="Vevo Holiday" tvg-id="5dcf059646c0cf000a293edd" tvg-logo="https://images.pluto.tv/channels/5dcf059646c0cf000a293edd/colorLogoPNG.png" group-title="Season's Greetings" tvg-chno="279",Vevo Holiday
+#EXTINF:-1 channel-id="PlutoTV-5dcf059646c0cf000a293edd" tvg-name="Vevo Holiday" tvg-id="5dcf059646c0cf000a293edd" tvg-logo="https://images.pluto.tv/channels/5dcf059646c0cf000a293edd/colorLogoPNG.png" group-title="Music" tvg-chno="279",Vevo Holiday
 https://jmp2.uk/plu-5dcf059646c0cf000a293edd-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6334a3ffdc283500076acf92" tvg-name="Vevo Holiday" tvg-id="6334a3ffdc283500076acf92" tvg-logo="https://images.pluto.tv/channels/6334a3ffdc283500076acf92/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4630",Vevo Holiday
+#EXTINF:-1 channel-id="PlutoTV-6334a3ffdc283500076acf92" tvg-name="Vevo Holiday" tvg-id="6334a3ffdc283500076acf92" tvg-logo="https://images.pluto.tv/channels/6334a3ffdc283500076acf92/colorLogoPNG.png" group-title="Music" tvg-chno="4630",Vevo Holiday
 https://jmp2.uk/plu-6334a3ffdc283500076acf92-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-64d161c93c785e0008df575e" tvg-name="Vevo Íconos Latinos" tvg-id="64d161c93c785e0008df575e" tvg-logo="https://images.pluto.tv/channels/64d161c93c785e0008df575e/colorLogoPNG.png" group-title="En Español" tvg-chno="4590",Vevo Íconos Latinos
-https://jmp2.uk/plu-64d161c93c785e0008df575e-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5d93b635b43dd1a399b39eee" tvg-name="Vevo Pop" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4760",Vevo Pop
+#EXTINF:-1 channel-id="PlutoTV-5d93b635b43dd1a399b39eee" tvg-name="Vevo Pop" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Music" tvg-chno="4760",Vevo Pop
 https://jmp2.uk/plu-5d93b635b43dd1a399b39eee-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5da0d83f66c9700009b96d0e" tvg-name="Vevo R&B" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4730",Vevo R&B
+#EXTINF:-1 channel-id="PlutoTV-5da0d83f66c9700009b96d0e" tvg-name="Vevo R&B" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music" tvg-chno="4730",Vevo R&B
 https://jmp2.uk/plu-5da0d83f66c9700009b96d0e-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-64dab5fe35425100080e2991" tvg-name="Vevo Regional Mexicano" tvg-id="64dab5fe35425100080e2991" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/colorLogoPNG.png" group-title="En Español" tvg-chno="4580",Vevo Regional Mexicano
-https://jmp2.uk/plu-64dab5fe35425100080e2991-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-61d4b38226b8a50007fe03a6" tvg-name="Vevo Retro Rock" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4740",Vevo Retro Rock
-https://jmp2.uk/plu-61d4b38226b8a50007fe03a6-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-61d4c2817a823d00070ba53e" tvg-name="Vevo True School Hip-Hop" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4720",Vevo True School Hip-Hop
+#EXTINF:-1 channel-id="PlutoTV-61d4c2817a823d00070ba53e" tvg-name="Vevo True School Hip-Hop" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" group-title="Music" tvg-chno="4720",Vevo True School Hip-Hop
 https://jmp2.uk/plu-61d4c2817a823d00070ba53e-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5d71561df6f2e6d0b6493bf5" tvg-name="VH1 Hip Hop Family" tvg-id="5d71561df6f2e6d0b6493bf5" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="Reality" tvg-chno="1700",VH1 Hip Hop Family
 https://jmp2.uk/plu-5d71561df6f2e6d0b6493bf5-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5d7154fa8326b6ce4ec31f2e" tvg-name="VH1 I Love Reality" tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Reality" tvg-chno="1710",VH1 I Love Reality
 https://jmp2.uk/plu-5d7154fa8326b6ce4ec31f2e-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6089788de5c8410007808e26" tvg-name="Wanted: Dead or Alive" tvg-id="6089788de5c8410007808e26" tvg-logo="https://images.pluto.tv/channels/6089788de5c8410007808e26/colorLogoPNG.png" group-title="Westerns" tvg-chno="820",Wanted: Dead or Alive
-https://jmp2.uk/plu-6089788de5c8410007808e26-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6532e8342cf13100083b404c" tvg-name="Warner Bros. TV Say Yes to the Dress" tvg-id="6532e8342cf13100083b404c" tvg-logo="https://images.pluto.tv/channels/6532e8342cf13100083b404c/colorLogoPNG.png" group-title="Reality" tvg-chno="1805",Warner Bros. TV Say Yes to the Dress
-https://jmp2.uk/plu-6532e8342cf13100083b404c-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6532e7fa045c3d0008514ca7" tvg-name="Warner Bros. TV Sweet Escapes" tvg-id="6532e7fa045c3d0008514ca7" tvg-logo="https://images.pluto.tv/channels/6532e7fa045c3d0008514ca7/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3440",Warner Bros. TV Sweet Escapes
-https://jmp2.uk/plu-6532e7fa045c3d0008514ca7-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5bdce04659ee03633e758130" tvg-name="WeatherNation" tvg-id="5bdce04659ee03633e758130" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2620",WeatherNation
+#EXTINF:-1 channel-id="PlutoTV-5bdce04659ee03633e758130" tvg-name="WeatherNation" tvg-id="5bdce04659ee03633e758130" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="News" tvg-chno="2620",WeatherNation
 https://jmp2.uk/plu-5bdce04659ee03633e758130-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5e8df4bc16e34700077e77d3" tvg-name="Western TV" tvg-id="5e8df4bc16e34700077e77d3" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="Westerns" tvg-chno="791",Western TV
-https://jmp2.uk/plu-5e8df4bc16e34700077e77d3-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5d48678d34ceb37d3c458a55" tvg-name="Wild 'N Out" tvg-id="5d48678d34ceb37d3c458a55" tvg-logo="https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Comedy" tvg-chno="380",Wild 'N Out
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6661f88f3d173b000845958c" tvg-name="Wild West TV" tvg-id="6661f88f3d173b000845958c" tvg-logo="https://images.pluto.tv/channels/6661f88f3d173b000845958c/colorLogoPNG.png" group-title="Westerns" tvg-chno="830",Wild West TV
-https://jmp2.uk/plu-6661f88f3d173b000845958c-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5616f9c0ada51f8004c4b091" tvg-name="World Poker Tour" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports" tvg-chno="2930",World Poker Tour
 https://jmp2.uk/plu-5616f9c0ada51f8004c4b091-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-66b66b9e14a2bb000872f606" tvg-name="WOW – Women of Wrestling" tvg-id="66b66b9e14a2bb000872f606" tvg-logo="https://images.pluto.tv/channels/66b66b9e14a2bb000872f606/colorLogoPNG.png" group-title="Sports" tvg-chno="2895",WOW – Women of Wrestling
-https://jmp2.uk/plu-66b66b9e14a2bb000872f606-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-623b92a2ccefed0007b1db48" tvg-name="XITE Classic Country" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4690",XITE Classic Country
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-623b93628e6ded0007337d4d" tvg-name="XITE Gospel" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4800",XITE Gospel
+#EXTINF:-1 channel-id="PlutoTV-623b93628e6ded0007337d4d" tvg-name="XITE Gospel" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" group-title="Religious" tvg-chno="4800",XITE Gospel
 https://jmp2.uk/plu-623b93628e6ded0007337d4d-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-623a1b5188ecdc0007c9ef5a" tvg-name="XITE Rock x Metal" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4750",XITE Rock x Metal
-https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6000a6f4c3f8550008fc9b91" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-id="6000a6f4c3f8550008fc9b91" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-title="Reality" tvg-chno="1470",Xtreme Outdoor Presented by HISTORY
-https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music Videos" tvg-chno="4710",Yo! MTV
+#EXTINF:-1 channel-id="PlutoTV-5d14fc31252d35decbc4080b" tvg-name="Yo! MTV" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music" tvg-chno="4710",Yo! MTV
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5f4ec10ed9636f00089b8c89" tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Anime" tvg-chno="4030",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="PlutoTV-5f4ec10ed9636f00089b8c89" tvg-name="Yu-Gi-Oh!" tvg-id="5f4ec10ed9636f00089b8c89" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Cartoons/Anime" tvg-chno="4030",Yu-Gi-Oh!
 https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6452c77ed3fdde00080eb3a8" tvg-name="Zoom! Zoom!" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="Kids" tvg-chno="3710",Zoom! Zoom!
+#EXTINF:-1 channel-id="PlutoTV-6452c77ed3fdde00080eb3a8" tvg-name="Zoom! Zoom!" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="Kids Friendly" tvg-chno="3710",Zoom! Zoom!
 https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8-alt.m3u8
