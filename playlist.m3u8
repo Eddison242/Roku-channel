@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://bit.ly/tta-epg"
+
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="Entertainment",A&E
 https://v4.thetvapp.to/hls/AEEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
@@ -83,19 +84,19 @@ https://v4.thetvapp.to/hls/DestinationAmerica/index.m3u8?token=MmU3WGJ1Y3Vrc3V2Q
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery
 https://v4.thetvapp.to/hls/DiscoveryChannelEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids",Discovery Family Channel
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-name="Discovery Family Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Kids Friendly",Discovery Family Channel
 https://v4.thetvapp.to/hls/DiscoveryFamily/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="Discovery Life" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Documentary",Discovery Life
 https://v4.thetvapp.to/hls/DiscoveryLife/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel (East)
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="Disney Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids Friendly",Disney Channel (East)
 https://v4.thetvapp.to/hls/DisneyChannelEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids Friendly",Disney Junior
 https://v4.thetvapp.to/hls/DisneyJuniorEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids Friendly",Disney XD
 https://v4.thetvapp.to/hls/DisneyXDEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-name="E!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10989_dark_360w_270h.png" group-title="Entertainment",E!
@@ -113,7 +114,7 @@ https://v4.thetvapp.to/hls/ESPNews/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPNU
 https://v4.thetvapp.to/hls/ESPNU/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Entertainment",Food Network
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Food",Food Network
 https://v4.thetvapp.to/hls/FoodNetworkEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="WNYW (New York) FOX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Entertainment",FOX East (New York)
@@ -206,7 +207,7 @@ https://v4.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2Q
 #EXTINF:-1 tvg-id="LOGO.HDTV.(East).(LGOHD).us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Entertainment",Logo
 https://v4.thetvapp.to/hls/LogoEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-name="MeTV Toons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Kids",MeTV Toons
+#EXTINF:-1 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-name="MeTV Toons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-toons-us.png?raw=true" group-title="Kids Friendly",MeTV Toons
 https://v4.thetvapp.to/hls/metv-toons/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
@@ -236,7 +237,7 @@ https://v4.thetvapp.to/hls/NationalGeographicEast/index.m3u8?token=MmU3WGJ1Y3Vrc
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
 https://v4.thetvapp.to/hls/NBATV/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="NBC.Sports.Chicago.HDTV.(NBCSCHHD).us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png",NBC East(New York)
+#EXTINF:-1 tvg-id="NBC.Sports.Chicago.HDTV.(NBCSCHHD).us" tvg-name="WNBC (New York) NBC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="News",NBC East(New York)
 https://v4.thetvapp.to/hls/WNBCDT1/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="News",Newsmax TV
@@ -251,13 +252,13 @@ https://v4.thetvapp.to/hls/NFLRedZone/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Sports",NHL Network
 https://v4.thetvapp.to/hls/NHLNetwork/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-name="Nick Jr." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids",Nick Jr.
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-name="Nick Jr." tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Kids Friendly",Nick Jr.
 https://v4.thetvapp.to/hls/NickJrEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon East
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids Friendly",Nickelodeon East
 https://v4.thetvapp.to/hls/NickelodeonEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="Nicktoons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="Kids Friendly",Nicktoons
 https://v4.thetvapp.to/hls/NicktoonsEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Documentary",Outdoor Channel
@@ -269,7 +270,7 @@ https://v4.thetvapp.to/hls/OWNEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2
 #EXTINF:-1 tvg-id="Oxygen.(East).(OXYGN).us" tvg-name="Oxygen True Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21484_dark_360w_270h.png" group-title="Documentary",Oxygen True Crime
 https://v4.thetvapp.to/hls/OxygenEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="Entertainment",PBS 13 (WNET) New York
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-name="PBS 13 (WNET) New York" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pbs-us.png?raw=true" group-title="News",PBS 13 (WNET) New York
 https://v4.thetvapp.to/hls/WNET/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Entertainment",ReelzChannel
@@ -302,11 +303,8 @@ https://v4.thetvapp.to/hls/TBSEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Movies",TCM
 https://v4.thetvapp.to/hls/TCMEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Kids",TeenNick
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-name="TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="Kids Friendly",TeenNick
 https://v4.thetvapp.to/hls/TeenNickEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="Telemundo.Network.(East).(TELMUN).us" tvg-name="Telemundo East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10239_dark_360w_270h.png" group-title="News",Telemundo East
-https://v4.thetvapp.to/hls/TelemundoEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Sports",Tennis Channel
 https://v4.thetvapp.to/hls/TennisChannel/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
@@ -326,7 +324,7 @@ https://v4.thetvapp.to/hls/TLCEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entertainment",TNT
 https://v4.thetvapp.to/hls/TNTEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Travel Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="Documentary",Travel Channel
+#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Travel Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11180_dark_360w_270h.png" group-title="Travel",Travel Channel
 https://v4.thetvapp.to/hls/TravelChannelEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
@@ -335,7 +333,7 @@ https://v4.thetvapp.to/hls/truTVEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2
 #EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="TV One HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="Entertainment",TV One HD
 https://v4.thetvapp.to/hls/TVOne/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Kids",Universal Kids
+#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-name="Universal Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47540_dark_360w_270h.png" group-title="Kids Friendly",Universal Kids
 https://v4.thetvapp.to/hls/UniversalKidsEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
 #EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="Univision East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11118_dark_360w_270h.png" group-title="News",Univision East
@@ -353,384 +351,34 @@ https://v4.thetvapp.to/hls/vicEEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M
 #EXTINF:-1 tvg-id="Womens.Entertainment.HDTV.(East).(WE.HD).us" tvg-name="WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="Entertainment",WE tv
 https://v4.thetvapp.to/hls/WeTVEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
 
-#EXTINF:-1 tvg-id="f23fbb2a3efe406d8689131aeade5266" tvg-name="Denver Pioneers vs. Stanford Cardinal" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",4:00 PM - Denver Pioneers vs. Stanford Cardinal - 04:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB01/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e18e5d0ed5519018da55fd1f65103ae4" tvg-name="Marist Red Foxes vs. Harvard Crimson" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",5:00 PM - Marist Red Foxes vs. Harvard Crimson - 05:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB02/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e710c44dde58c742dcee9605c8c20aa5" tvg-name="Sacred Heart Pioneers vs. Temple Owls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",5:30 PM - Sacred Heart Pioneers vs. Temple Owls - 05:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB03/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="2c9cba9ea95a1c10b1a8c7bcddfb3a6f" tvg-name="Texas A&M-CC Islanders vs. Purdue Boilermakers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",6:00 PM - Texas A&M-CC Islanders vs. Purdue Boilermakers - 06:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/BTN/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="31ab6118c50ed5befcc7ca09c421da01" tvg-name="Miami (OH) RedHawks vs. Appalachian St Mountaineers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",6:30 PM - Miami (OH) RedHawks vs. Appalachian St Mountaineers - 06:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB04/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9d99ce90158f4d0dfe3bcded017643d3" tvg-name="Fordham Rams vs. St. John's Red Storm" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",6:30 PM - Fordham Rams vs. St. John's Red Storm - 06:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB05/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="fc3c21e6719fb1b969c9319e10d1ce99" tvg-name="Missouri St Bears vs. Butler Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",6:45 PM - Missouri St Bears vs. Butler Bulldogs - 06:45 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB06/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="10c91b78058d5b78421c92d960d0d90a" tvg-name="American Eagles vs. La Salle Explorers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - American Eagles vs. La Salle Explorers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB07/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="5df6882b8a219f411d7df3065c9d65ca" tvg-name="Arkansas-Pine Bluff Golden Lions vs. Cincinnati Bearcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Arkansas-Pine Bluff Golden Lions vs. Cincinnati Bearcats - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB08/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="ba957139e629743d25640dc19e5cfce8" tvg-name="Ball State Cardinals vs. Georgia St Panthers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Ball State Cardinals vs. Georgia St Panthers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB09/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="0b6307bbf247e29f32bcf68261c0196a" tvg-name="Bellarmine Knights vs. VCU Rams" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Bellarmine Knights vs. VCU Rams - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB10/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="a6f03449f99e279a9be5bba1efe0a077" tvg-name="Brown Bears vs. Siena Saints" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Brown Bears vs. Siena Saints - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB11/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="a21b01830bb91ac2ddf3a81b3ff2f118" tvg-name="Buffalo Bulls vs. Old Dominion Monarchs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Buffalo Bulls vs. Old Dominion Monarchs - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB12/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="2309b2410ec820ef335805871640fcaf" tvg-name="CSU Northridge Matadors vs. St. Bonaventure Bonnies" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - CSU Northridge Matadors vs. St. Bonaventure Bonnies - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB13/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="fc64facd102a7d34427b9935044f6534" tvg-name="Central Connecticut St Blue Devils vs. Providence Friars" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Central Connecticut St Blue Devils vs. Providence Friars - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB14/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="bfee1d479d80d3a4e8b441908fe11921" tvg-name="Charleston Southern Buccaneers vs. Clemson Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Charleston Southern Buccaneers vs. Clemson Tigers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB15/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e2d5ad0977b17e716e7c002a6abb58c7" tvg-name="Western Michigan Broncos vs. Coastal Carolina Chanticleers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Western Michigan Broncos vs. Coastal Carolina Chanticleers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB16/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="21c7b2f6e443db3e3017a41b226ecbee" tvg-name="Columbia Lions vs. Loyola (MD) Greyhounds" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Columbia Lions vs. Loyola (MD) Greyhounds - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB17/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="ee9b019065a58688849e421148ea1cf4" tvg-name="St. Francis (PA) Red Flash vs. Dayton Flyers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - St. Francis (PA) Red Flash vs. Dayton Flyers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB18/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="02fe98fafa9c44aa00cbddf936612bbe" tvg-name="Maine Black Bears vs. Duke Blue Devils" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Maine Black Bears vs. Duke Blue Devils - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/ACCNetwork/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e410002e20838b53be54884796f21ba2" tvg-name="Fairleigh Dickinson Knights vs. Miami Hurricanes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Fairleigh Dickinson Knights vs. Miami Hurricanes - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB19/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="cb5b51206b49571c7d0733ba4becc77b" tvg-name="Florida Gulf Coast Eagles vs. UNC Greensboro Spartans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Florida Gulf Coast Eagles vs. UNC Greensboro Spartans - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB20/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="c9e30a6d83a056df3050559b63746618" tvg-name="Northern Kentucky Norse vs. Florida St Seminoles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Northern Kentucky Norse vs. Florida St Seminoles - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB21/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="8b21b42812ff46bb66bb1f8991b7e2c3" tvg-name="Gardner-Webb Bulldogs vs. Tennessee Volunteers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Gardner-Webb Bulldogs vs. Tennessee Volunteers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB22/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e1493f571e5b996baf74b8de1d4b3c05" tvg-name="North Carolina Central Eagles vs. George Mason Patriots" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - North Carolina Central Eagles vs. George Mason Patriots - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB23/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="8394c7dc99098df345dbcf499a06e2ba" tvg-name="Northern Illinois Huskies vs. Georgia Southern Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Northern Illinois Huskies vs. Georgia Southern Eagles - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB24/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e6786ce85e842a188005411526f61eb9" tvg-name="Iona Gaels vs. Princeton Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Iona Gaels vs. Princeton Tigers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB25/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4a0ac59d448869cbabd215fd98986145" tvg-name="Ohio Bobcats vs. James Madison Dukes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Ohio Bobcats vs. James Madison Dukes - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB26/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="5c743a384a35b4c6ca48de3d3c46dae1" tvg-name="Wright St Raiders vs. Kentucky Wildcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Wright St Raiders vs. Kentucky Wildcats - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/ESPNU/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="630b78cbe9687a4b4ca211fe8d97c50f" tvg-name="Le Moyne Dolphins vs. Syracuse Orange" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Le Moyne Dolphins vs. Syracuse Orange - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB27/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="748115c1c1eebc57f684ad87299e3bd8" tvg-name="Morehead St Eagles vs. Louisville Cardinals" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Morehead St Eagles vs. Louisville Cardinals - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB28/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="210c00aef306346960726938dce795b6" tvg-name="Manhattan Jaspers vs. Maryland Terrapins" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Manhattan Jaspers vs. Maryland Terrapins - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB29/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="ae74d4e9a3f0808be1ea8a264609e610" tvg-name="New Hampshire Wildcats vs. Massachusetts Minutemen" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - New Hampshire Wildcats vs. Massachusetts Minutemen - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NESN/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="5c8a2e7c6569fc34448f4c5024395076" tvg-name="Monmouth Hawks vs. Michigan St Spartans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Monmouth Hawks vs. Michigan St Spartans - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB30/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="d33f00d0b93f8c04049a7ad55370d881" tvg-name="South Carolina Upstate Spartans vs. NC State Wolfpack" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - South Carolina Upstate Spartans vs. NC State Wolfpack - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB31/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="1f5d77a16a52cb00ed2d940cf3137415" tvg-name="Pennsylvania Quakers vs. NJIT Highlanders" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Pennsylvania Quakers vs. NJIT Highlanders - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB32/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9e097da51542a36abd2b72c26b1e523e" tvg-name="Navy Midshipmen vs. Saint Joseph's Hawks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Navy Midshipmen vs. Saint Joseph's Hawks - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB33/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4126b765617a8c6624cb6c46c91f7dab" tvg-name="North Florida Ospreys vs. South Carolina Gamecocks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - North Florida Ospreys vs. South Carolina Gamecocks - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB34/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="3d8899cd3994958dd80e0cb0b41e47c9" tvg-name="Radford Highlanders vs. Pittsburgh Panthers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Radford Highlanders vs. Pittsburgh Panthers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB35/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="fc0d8a675cae829d8f3eb77dff39dc59" tvg-name="Robert Morris Colonials vs. West Virginia Mountaineers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Robert Morris Colonials vs. West Virginia Mountaineers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB36/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4e9b0cbfc13ba424b2887fbf5fefad79" tvg-name="Texas A&M Aggies vs. UCF Knights" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Texas A&M Aggies vs. UCF Knights - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB37/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="bad807b68d76347e88e121779e20676f" tvg-name="Toledo Rockets vs. Troy Trojans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:00 PM - Toledo Rockets vs. Troy Trojans - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB38/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="60e7c99bb3ce0dac18f62a7c2beb732d" tvg-name="Binghamton Bearcats vs. Penn State Nittany Lions" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Binghamton Bearcats vs. Penn State Nittany Lions - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB39/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="b113371cc55be03df3b491247cd46b82" tvg-name="Northeastern Huskies vs. Boston Univ. Terriers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Northeastern Huskies vs. Boston Univ. Terriers - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB40/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="735e9414b4789bfdcbae91d3b7d8c34e" tvg-name="Tennessee Tech Golden Eagles vs. Georgia Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Tennessee Tech Golden Eagles vs. Georgia Bulldogs - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB41/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="b76266a881c387cb0c2094e67b59b7d1" tvg-name="Saint Peter's Peacocks vs. Seton Hall Pirates" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Saint Peter's Peacocks vs. Seton Hall Pirates - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB42/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="f29a06a6c2e0ba904c039ed4bfaf7145" tvg-name="Texas Southern Tigers vs. Xavier Musketeers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Texas Southern Tigers vs. Xavier Musketeers - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB43/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e76dc763eb8c37276e697a4c5c13a97c" tvg-name="Vermont Catamounts vs. UAB Blazers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",7:30 PM - Vermont Catamounts vs. UAB Blazers - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB44/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="cc6c82af97ef4c2cb6fdb5256965f195" tvg-name="Akron Zips vs. Arkansas St Red Wolves" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Akron Zips vs. Arkansas St Red Wolves - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB45/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="a2843b3a6d735e18444885ebaf13884f" tvg-name="Albany Great Danes vs. Army Knights" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Albany Great Danes vs. Army Knights - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB46/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="8e5c221681fbf6c4f9d7a10894406801" tvg-name="The Citadel Bulldogs vs. Boston College Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - The Citadel Bulldogs vs. Boston College Eagles - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB47/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="2f55e4a5e4ed8cbd0dc89def6c0718c0" tvg-name="Bowling Green Falcons vs. Southern Miss Golden Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Bowling Green Falcons vs. Southern Miss Golden Eagles - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB48/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="b1f8b5b5ab32deb9f50e1b695c337b07" tvg-name="Central Michigan Chippewas vs. South Alabama Jaguars" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Central Michigan Chippewas vs. South Alabama Jaguars - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB49/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="288c245e80fd1a730171e6d48a996563" tvg-name="Presbyterian Blue Hose vs. Charlotte 49ers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Presbyterian Blue Hose vs. Charlotte 49ers - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB50/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="0dae208e10e7d358fbdb128b9e35432a" tvg-name="Cleveland St Vikings vs. Michigan Wolverines" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Cleveland St Vikings vs. Michigan Wolverines - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/BTN/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="3e480ece08147a79cb54028df63a5799" tvg-name="Coppin St Eagles vs. Wake Forest Demon Deacons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Coppin St Eagles vs. Wake Forest Demon Deacons - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB51/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="446e373cb80efc84c0e30d2efac1b8a9" tvg-name="Southern Indiana Screaming Eagles vs. DePaul Blue Demons" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Southern Indiana Screaming Eagles vs. DePaul Blue Demons - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB52/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e4a4e327c89f9de11fd69c437c993331" tvg-name="Delaware St Hornets vs. Virginia Tech Hokies" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Delaware St Hornets vs. Virginia Tech Hokies - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB53/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="249dfec84a60a795613e337ccccf3891" tvg-name="Lipscomb Bisons vs. Duquesne Dukes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Lipscomb Bisons vs. Duquesne Dukes - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB54/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="231fcbaa1469ae900a038de8e6c20da4" tvg-name="Eastern Illinois Panthers vs. Illinois Fighting Illini" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Eastern Illinois Panthers vs. Illinois Fighting Illini - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB55/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="7218bac74eb6343395990ccb3fc3eb16" tvg-name="Eastern Michigan Eagles vs. Texas State Bobcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Eastern Michigan Eagles vs. Texas State Bobcats - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB56/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e2d1163f3651cb14dfb54e76ef336b89" tvg-name="Fairfield Stags vs. Rhode Island Rams" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Fairfield Stags vs. Rhode Island Rams - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB57/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="371dde811826330898f62c537dcdb4be" tvg-name="Florida A&M Rattlers vs. TCU Horned Frogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Florida A&M Rattlers vs. TCU Horned Frogs - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB58/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="06d0072f9e5f59f742c7e46fda803157" tvg-name="Holy Cross Crusaders vs. Wisconsin Badgers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Holy Cross Crusaders vs. Wisconsin Badgers - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB59/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4cf0e7b66bcf0b518313a2d42f777002" tvg-name="Jackson St Tigers vs. Houston Cougars" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Jackson St Tigers vs. Houston Cougars - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB60/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9abbe74e703d5a3436cd82a32447baba" tvg-name="Howard Bison vs. Kansas Jayhawks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Howard Bison vs. Kansas Jayhawks - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB61/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="2ffb03f9622ec34408fd1da505104d74" tvg-name="Tenn-Martin Skyhawks vs. Illinois St Redbirds" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Tenn-Martin Skyhawks vs. Illinois St Redbirds - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB62/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="cdadebb9e82736edf1792a553fd7230b" tvg-name="Texas A&M-Commerce Lions vs. Iowa Hawkeyes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Texas A&M-Commerce Lions vs. Iowa Hawkeyes - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB63/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e1686b7b18daa0da062035724027adb9" tvg-name="Kent State Golden Flashes vs. Louisiana Ragin' Cajuns" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Kent State Golden Flashes vs. Louisiana Ragin' Cajuns - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB64/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="40f860029f39e50cc2e520c62b8dbe89" tvg-name="Maryland-Eastern Shore Hawks vs. Vanderbilt Commodores" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Maryland-Eastern Shore Hawks vs. Vanderbilt Commodores - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB65/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="69c4ee2ebcf6253b3739dfdca45862dd" tvg-name="Missouri Tigers vs. Memphis Tigers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Missouri Tigers vs. Memphis Tigers - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB66/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9925218caa1aa52503db229e173a4612" tvg-name="UT Rio Grande Valley Vaqueros vs. Nebraska Cornhuskers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - UT Rio Grande Valley Vaqueros vs. Nebraska Cornhuskers - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB67/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9c124f523a07ebd6b3b15fd03af24425" tvg-name="Quinnipiac Bobcats vs. Yale Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Quinnipiac Bobcats vs. Yale Bulldogs - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB68/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="f5be272c6bac4a3bb1b24f6017c233cd" tvg-name="Wichita St Shockers vs. Western Kentucky Hilltoppers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:00 PM - Wichita St Shockers vs. Western Kentucky Hilltoppers - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/CBSSportsNetworkUSA/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="aacffc2bf851e7bf40cfe1904852008b" tvg-name="Chicago St Cougars vs. Loyola (Chi) Ramblers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:30 PM - Chicago St Cougars vs. Loyola (Chi) Ramblers - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB69/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="fbc0ce5bd65ae483d8e505a7a72c3baf" tvg-name="Florida Gators vs. South Florida Bulls" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:30 PM - Florida Gators vs. South Florida Bulls - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/SECN/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="a71d772d48c6a712dce504661afd0e4d" tvg-name="LIU Sharks vs. Ole Miss Rebels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:30 PM - LIU Sharks vs. Ole Miss Rebels - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB70/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="dddcf3113fcf550f1e0b19b7fd30034c" tvg-name="Stony Brook Seawolves vs. Marquette Golden Eagles" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:30 PM - Stony Brook Seawolves vs. Marquette Golden Eagles - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB71/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4294e785e610e92a1f4f3bb40cba181e" tvg-name="Tarleton State Texans vs. SMU Mustangs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",8:30 PM - Tarleton State Texans vs. SMU Mustangs - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB72/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="5dbca9a7ea9f452630ae5a96abb0545a" tvg-name="UNC Asheville Bulldogs vs. Alabama Crimson Tide" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - UNC Asheville Bulldogs vs. Alabama Crimson Tide - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/ESPNU/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="35bdc211d99a277b63974ab655e0cd0c" tvg-name="Alcorn St Braves vs. Utah Utes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - Alcorn St Braves vs. Utah Utes - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB73/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="95c49f4f4d9e50b13adde81abac25d74" tvg-name="CSU Fullerton Titans vs. Grand Canyon Antelopes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - CSU Fullerton Titans vs. Grand Canyon Antelopes - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB74/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="32f16b9d64bec524c0b1af2912014a69" tvg-name="Eastern Washington Eagles vs. Colorado Buffaloes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - Eastern Washington Eagles vs. Colorado Buffaloes - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB75/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="0cf71fa234d1257ad3c36bbd18359d9e" tvg-name="Elon Phoenix vs. North Carolina Tar Heels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - Elon Phoenix vs. North Carolina Tar Heels - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/ACCNetwork/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="3f9009e4336d71eb488a2385d7f5aa92" tvg-name="Green Bay Phoenix vs. Oklahoma St Cowboys" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - Green Bay Phoenix vs. Oklahoma St Cowboys - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB76/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="f2d4bde25ac9d388b7db3b045a0d5f4d" tvg-name="Lindenwood Lions vs. Oklahoma Sooners" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",9:00 PM - Lindenwood Lions vs. Oklahoma Sooners - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB77/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="3cd379e98e325649e2d998b522aa6273" tvg-name="Canisius Golden Griffins vs. Arizona Wildcats" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:00 PM - Canisius Golden Griffins vs. Arizona Wildcats - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB78/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="a7ec21d8652b3f38a883b5b3ccbcc802" tvg-name="Incarnate Word Cardinals vs. Cal Baptist Lancers" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:00 PM - Incarnate Word Cardinals vs. Cal Baptist Lancers - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB79/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="4c94d007380a85e92ceb2cc77329219d" tvg-name="Chattanooga Mocs vs. USC Trojans" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:00 PM - Chattanooga Mocs vs. USC Trojans - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/BTN/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="f0f7c4f6de8cbe13a77434afdb546000" tvg-name="Texas Longhorns vs. Ohio State Buckeyes" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:00 PM - Texas Longhorns vs. Ohio State Buckeyes - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/TNTEast/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="414a6de21e10cbb06cf210f42dbed6ea" tvg-name="Towson Tigers vs. Saint Mary's Gaels" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:00 PM - Towson Tigers vs. Saint Mary's Gaels - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB80/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="374a87be668d7c93b7328fb082f07d86" tvg-name="UC Riverside Highlanders vs. Oregon Ducks" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:30 PM - UC Riverside Highlanders vs. Oregon Ducks - 10:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NCAAB81/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="1f6713576c17cb06534a04d1de7a0b2c" tvg-name="Rider Broncs vs. UCLA Bruins" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",10:30 PM - Rider Broncs vs. UCLA Bruins - 10:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/FoxSports1/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="641db64188f8bc582dab8e7178cb77b8" tvg-name="Baylor Bears vs. Gonzaga Bulldogs" tvg-logo="https://github.com/dtankdempse/thetvapp-m3u/blob/main/images/ncaab-transparent%5B1%5D.png?raw=true" group-title="NCAA Basketball",11:30 PM - Baylor Bears vs. Gonzaga Bulldogs - 11:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/ESPN2/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="498a330f39049de7bca6adfa76fc1435" tvg-name="Milwaukee Bucks vs. Cleveland Cavaliers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:00 PM - Milwaukee Bucks vs. Cleveland Cavaliers - 07:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBATV/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="2a9c95c71aeef2efab144fef9633aee6" tvg-name="Golden State Warriors vs. Washington Wizards" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:15 PM - Golden State Warriors vs. Washington Wizards - 07:15 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA26/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e26d57b203926e29161bc2de1491ac0f" tvg-name="Los Angeles Lakers vs. Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:30 PM - Los Angeles Lakers vs. Detroit Pistons - 07:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA07/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="1601ad1414a3153201f24792a2fd417a" tvg-name="Boston Celtics vs. Atlanta Hawks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",7:45 PM - Boston Celtics vs. Atlanta Hawks - 07:45 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA28/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="9349e6bbeec4e1c4538ebe2269f390f2" tvg-name="Memphis Grizzlies vs. Brooklyn Nets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:00 PM - Memphis Grizzlies vs. Brooklyn Nets - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA20/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="d80415dc863cd8a92174cca0b4721436" tvg-name="Sacramento Kings vs. Miami Heat" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:15 PM - Sacramento Kings vs. Miami Heat - 08:15 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA16/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="46aff60c1fdb3acbceb69675c800fdf2" tvg-name="Utah Jazz vs. Chicago Bulls" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:30 PM - Utah Jazz vs. Chicago Bulls - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA15/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="0f20a7895875113360393cde1dbfd82a" tvg-name="New York Knicks vs. Houston Rockets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",8:45 PM - New York Knicks vs. Houston Rockets - 08:45 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA22/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="c639e2fde59d18204f6fb81f152a7391" tvg-name="Charlotte Hornets vs. Minnesota Timberwolves" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",9:00 PM - Charlotte Hornets vs. Minnesota Timberwolves - 09:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA12/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="577d24f4d226dbf953598dcf5a0d0f6f" tvg-name="Orlando Magic vs. Oklahoma City Thunder" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",9:15 PM - Orlando Magic vs. Oklahoma City Thunder - 09:15 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA24/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="baa00be136b3d63e32d6549d23c4c3d6" tvg-name="Portland Trail Blazers vs. New Orleans Pelicans" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",9:30 PM - Portland Trail Blazers vs. New Orleans Pelicans - 09:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA01/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="106e70a1263154eb035d17e66cc49d03" tvg-name="Indiana Pacers vs. Dallas Mavericks" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",9:45 PM - Indiana Pacers vs. Dallas Mavericks - 09:45 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA03/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="82e0b527318b57ff21e9f27cf1478d57" tvg-name="Toronto Raptors vs. Denver Nuggets" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",10:00 PM - Toronto Raptors vs. Denver Nuggets - 10:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA23/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="057004568e6046bf088518a00d8270d0" tvg-name="Philadelphia 76ers vs. Phoenix Suns" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",10:15 PM - Philadelphia 76ers vs. Phoenix Suns - 10:15 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBATV/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="e6034895b3bcb3d27e4aece268956265" tvg-name="San Antonio Spurs vs. Los Angeles Clippers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nba-tv-icon-us.png" group-title="NBA Basketball",10:30 PM - San Antonio Spurs vs. Los Angeles Clippers - 10:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NBA08/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="3154d2717134aaa177c8b8f3d2150b3a" tvg-name="Los Angeles Kings vs. Nashville Predators" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:00 PM - Los Angeles Kings vs. Nashville Predators - 08:00 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NHL01/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="8a75a54ddec44f74e44f6139dcf25472" tvg-name="New Jersey Devils vs. Edmonton Oilers" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nhl-network-us.png" group-title="NHL Hockey",8:30 PM - New Jersey Devils vs. Edmonton Oilers - 08:30 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/NHLNetwork/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
-#EXTINF:-1 tvg-id="8ce3d4c0e63eca867145e2ea4e209e54" tvg-name="Tampa Bay Buccaneers vs. Kansas City Chiefs" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/nfl-icon-us.png" group-title="NFL Football",8:15 PM - Tampa Bay Buccaneers vs. Kansas City Chiefs - 08:15 PM EST - (11/04/2024)
-https://v4.thetvapp.to/hls/TSN1/index.m3u8?token=MmU3WGJ1Y3Vrc3V2QlkwSFhWb2M2S2JRNEZHYU5NU3B0OGFRZFl1Vg==
-
 #EXTINF:-1 channel-id="PlutoTV-62ba60f059624e000781c436" tvg-name="00s Replay" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies" tvg-chno="160",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6176f39e709f160007ec61c3" tvg-name="48 Hours" tvg-id="6176f39e709f160007ec61c3" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="True Crime" tvg-chno="1260",48 Hours
+#EXTINF:-1 channel-id="PlutoTV-6176f39e709f160007ec61c3" tvg-name="48 Hours" tvg-id="6176f39e709f160007ec61c3" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="TV Shows & Series" tvg-chno="1260",48 Hours
 https://jmp2.uk/plu-6176f39e709f160007ec61c3-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-65775e07dfed030008cb3f47" tvg-name="4UV" tvg-id="65775e07dfed030008cb3f47" tvg-logo="https://images.pluto.tv/channels/65775e07dfed030008cb3f47/colorLogoPNG.png" group-title="Entertainment" tvg-chno="2175",4UV
 https://jmp2.uk/plu-65775e07dfed030008cb3f47-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-66b646f9cd0d3100086af83c" tvg-name="60 Minutes" tvg-id="66b646f9cd0d3100086af83c" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="History + Science" tvg-chno="3095",60 Minutes
+#EXTINF:-1 channel-id="PlutoTV-66b646f9cd0d3100086af83c" tvg-name="60 Minutes" tvg-id="66b646f9cd0d3100086af83c" tvg-logo="https://images.pluto.tv/channels/66b646f9cd0d3100086af83c/colorLogoPNG.png" group-title="Documentary" tvg-chno="3095",60 Minutes
 https://jmp2.uk/plu-66b646f9cd0d3100086af83c-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5f4d878d3d19b30007d2e782" tvg-name="70s Cinema" tvg-id="5f4d878d3d19b30007d2e782" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Movies" tvg-chno="190",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5ca525b650be2571e3943c63" tvg-name="80s Rewind" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Movies" tvg-chno="180",80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6452c814939a590008567a3b" tvg-name="90's Kids" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="Kids" tvg-chno="3785",90's Kids
+#EXTINF:-1 channel-id="PlutoTV-6452c814939a590008567a3b" tvg-name="90's Kids" tvg-id="6452c814939a590008567a3b" tvg-logo="https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG.png" group-title="Kids Friendly" tvg-chno="3785",90's Kids
 https://jmp2.uk/plu-6452c814939a590008567a3b-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5f4d83e0a382c00007bc02e7" tvg-name="90210" tvg-id="5f4d83e0a382c00007bc02e7" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Drama" tvg-chno="1150",90210
 https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5f4d86f519358a00072b978e" tvg-name="90s Throwback" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Movies" tvg-chno="170",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-6508be683a0d700008c534e4" tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2532",ABC News Live
+#EXTINF:-1 channel-id="PlutoTV-6508be683a0d700008c534e4" tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News" tvg-chno="2532",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-64dab1f835425100080e1e7b" tvg-name="Acapulco Shore" tvg-id="64dab1f835425100080e1e7b" tvg-logo="https://images.pluto.tv/channels/64dab1f835425100080e1e7b/colorLogoPNG.png" group-title="Reality" tvg-chno="1723",Acapulco Shore
-https://jmp2.uk/plu-64dab1f835425100080e1e7b-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-60c25ec6da6d6600074233a8" tvg-name="Acapulco Shore" tvg-id="60c25ec6da6d6600074233a8" tvg-logo="https://images.pluto.tv/channels/60c25ec6da6d6600074233a8/colorLogoPNG.png" group-title="En Español" tvg-chno="4340",Acapulco Shore
-https://jmp2.uk/plu-60c25ec6da6d6600074233a8-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-66621ed08ea5560008fde7c9" tvg-name="Alien Nation by DUST" tvg-id="66621ed08ea5560008fde7c9" tvg-logo="https://images.pluto.tv/channels/66621ed08ea5560008fde7c9/colorLogoPNG.png" group-title="Sci" tvg-chno="885",Alien Nation by DUST
-https://jmp2.uk/plu-66621ed08ea5560008fde7c9-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5e82530945600e0007ca076c" tvg-name="All Reality by WE tv" tvg-id="5e82530945600e0007ca076c" tvg-logo="https://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png" group-title="Reality" tvg-chno="1810",All Reality by WE tv
-https://jmp2.uk/plu-5e82530945600e0007ca076c-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5e84db2db3851800077c871e" tvg-name="Amantes del romance" tvg-id="5e84db2db3851800077c871e" tvg-logo="https://images.pluto.tv/channels/5e84db2db3851800077c871e/colorLogoPNG.png" group-title="En Español" tvg-chno="4200",Amantes del romance
-https://jmp2.uk/plu-5e84db2db3851800077c871e-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-62fa81ccd1a7e90007c1ada0" tvg-name="AMC en español" tvg-id="62fa81ccd1a7e90007c1ada0" tvg-logo="https://images.pluto.tv/channels/62fa81ccd1a7e90007c1ada0/colorLogoPNG.png" group-title="En Español" tvg-chno="4290",AMC en español
-https://jmp2.uk/plu-62fa81ccd1a7e90007c1ada0-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3420",America's Test Kitchen
+
+#EXTINF:-1 channel-id="PlutoTV-5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-id="5e84f54a82f05300080e6746" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Food" tvg-chno="3420",America's Test Kitchen
 https://jmp2.uk/plu-5e84f54a82f05300080e6746-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5e1f7da4bc7d740009831259" tvg-name="America's Voice News" tvg-id="5e1f7da4bc7d740009831259" tvg-logo="https://images.pluto.tv/channels/5e1f7da4bc7d740009831259/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2690",America's Voice News
-https://jmp2.uk/plu-5e1f7da4bc7d740009831259-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-65492fc7056b9700088560b5" tvg-name="American Crimes" tvg-id="65492fc7056b9700088560b5" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png" group-title="True Crime" tvg-chno="1240",American Crimes
+
+#EXTINF:-1 channel-id="PlutoTV-65492fc7056b9700088560b5" tvg-name="American Crimes" tvg-id="65492fc7056b9700088560b5" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG.png" group-title="Documentary" tvg-chno="1240",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Anime" tvg-chno="3980",Anime All Day
+#EXTINF:-1 channel-id="PlutoTV-5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Cartoons/Anime" tvg-chno="3980",Anime All Day
 https://jmp2.uk/plu-5812b7d3249444e05d09cc49-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-615b8ec39e878900073f419a" tvg-name="Antiques Road Trip" tvg-id="615b8ec39e878900073f419a" tvg-logo="https://images.pluto.tv/channels/615b8ec39e878900073f419a/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3410",Antiques Road Trip
-https://jmp2.uk/plu-615b8ec39e878900073f419a-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5ce44810b421747ae467b7cd" tvg-name="Antiques Roadshow UK" tvg-id="5ce44810b421747ae467b7cd" tvg-logo="https://images.pluto.tv/channels/5ce44810b421747ae467b7cd/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3400",Antiques Roadshow UK
 https://jmp2.uk/plu-5ce44810b421747ae467b7cd-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-60faffc3fbbc120007fc4376" tvg-name="Baby Shark TV" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://images.pluto.tv/channels/60faffc3fbbc120007fc4376/colorLogoPNG.png" group-title="Kids" tvg-chno="3760",Baby Shark TV
@@ -739,20 +387,16 @@ https://jmp2.uk/plu-60faffc3fbbc120007fc4376-alt.m3u8
 https://jmp2.uk/plu-654932fa4d6d8f00084c4723-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5e84dc59026b9b000766f9a2" tvg-name="Badass novelas" tvg-id="5e84dc59026b9b000766f9a2" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="En Español" tvg-chno="4220",Badass novelas
 https://jmp2.uk/plu-5e84dc59026b9b000766f9a2-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-60a3d889a5b3690008dc7fe8" tvg-name="Bar Rescue" tvg-id="60a3d889a5b3690008dc7fe8" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="Reality" tvg-chno="1460",Bar Rescue
+#EXTINF:-1 channel-id="PlutoTV-60a3d889a5b3690008dc7fe8" tvg-name="Bar Rescue" tvg-id="60a3d889a5b3690008dc7fe8" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="TV Shows & Series" tvg-chno="1460",Bar Rescue
 https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5d815eb889bca2ce7b746fdd" tvg-name="Baywatch" tvg-id="5d815eb889bca2ce7b746fdd" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Drama" tvg-chno="1140",Baywatch
 https://jmp2.uk/plu-5d815eb889bca2ce7b746fdd-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-656535fc2c46f30008870fae" tvg-name="BBC Earth" tvg-id="656535fc2c46f30008870fae" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Animals + Nature" tvg-chno="3560",BBC Earth
 https://jmp2.uk/plu-656535fc2c46f30008870fae-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5fb5844bf5514d0007945bda" tvg-name="BBC Food" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3490",BBC Food
+#EXTINF:-1 channel-id="PlutoTV-5fb5844bf5514d0007945bda" tvg-name="BBC Food" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="https://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Food" tvg-chno="3490",BBC Food
 https://jmp2.uk/plu-5fb5844bf5514d0007945bda-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-5fb5836fe745b600070fc743" tvg-name="BBC Home & Garden" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Home + Food" tvg-chno="3500",BBC Home & Garden
-https://jmp2.uk/plu-5fb5836fe745b600070fc743-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-65d92a8c8b24c80008e285c0" tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News + Opinion" tvg-chno="2629",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0-alt.m3u8
-#EXTINF:-1 channel-id="PlutoTV-60493283ffc52f000710edae" tvg-name="Bebecito Bum y sus amigos" tvg-id="60493283ffc52f000710edae" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Kids" tvg-chno="3750",Bebecito Bum y sus amigos
-https://jmp2.uk/plu-60493283ffc52f000710edae-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports" tvg-chno="2910",beIN SPORTS XTRA
 https://jmp2.uk/plu-5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:-1 channel-id="PlutoTV-60492fdd9989d30007ccd30a" tvg-name="beIN SPORTS XTRA en español" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="En Español" tvg-chno="4560",beIN SPORTS XTRA en español
